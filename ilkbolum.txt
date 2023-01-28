@@ -2,4 +2,6 @@
 
 ön söz: Bu kitap çok iyi olacak.
 
-ilk satırlar yazıldı 
+ilk satırlar yazıldı.
+
+bugün branch'leri ögreniyoruz.
