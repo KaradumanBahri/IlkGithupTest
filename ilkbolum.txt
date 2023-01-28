@@ -5,3 +5,6 @@
 ilk satırlar yazıldı.
 
 bugün branch'leri ögreniyoruz.
+
+
+son commit yaptık
