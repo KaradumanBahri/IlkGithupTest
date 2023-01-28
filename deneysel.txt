@@ -1,1 +1,3 @@
 Deneysel yazılar makaleler yazılacak.
+
+ikinci deneysel satırlarımızı yazdık.
