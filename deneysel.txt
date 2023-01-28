@@ -1,6 +1,9 @@
 Deneysel yazılar makaleler yazılacak.
 
 ikinci deneysel satırlarımızı yazdık.
+<<<<<<< HEAD
 
 
 bugün branch'leri ögreniyoruz.
+=======
+>>>>>>> feature
